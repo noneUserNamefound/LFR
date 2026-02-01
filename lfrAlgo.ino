@@ -4,7 +4,7 @@
 #define SCREEN_I2C_ADDRESS 0x3C
 #define OLED_RESET_PIN -1
 
-
+#define Something 0
 #include <Wire.h>
 #include <U8g2lib.h>
 
